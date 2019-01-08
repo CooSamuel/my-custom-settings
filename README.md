@@ -10,5 +10,8 @@ All the folder will have its own setting notes.
 
 
 
-- Date 2019/01/07 → [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) →　[zsh_custom](./zsh_custom)
+- Date 2019/01/07 → [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) →　[zsh_custom](./zsh_custom) 
+- Date 2019/01/07 → Vim editor →　[vim_custom](./vim_custom)
+
+
 
