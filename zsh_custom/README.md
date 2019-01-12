@@ -3,7 +3,15 @@
 
 This folder is the `$ZSH_CUSTOM` of `oh-my-zsh`.
 
- `.zshrc` file is used the default one with cumstom them.
+ `.zshrc` file is used the default one with cumstom it. custom theme [spaceshipZSH](https://github.com/denysdovhan/spaceship-prompt) is used to custom.
+
+ ```bash
+ git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"
+ ```
+
+```bash
+ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
+``` 
  
 ![StyleMe](./myStyle.png)
 
